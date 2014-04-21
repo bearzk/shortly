@@ -37,3 +37,6 @@ nosetests.xml
 
 # shortly
 shortly/debug
+.idea/shortly.iml
+venv/.Python
+venv/include/python2.7
